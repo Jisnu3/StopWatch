@@ -1,1 +1,2 @@
-It is a simple Stop watch.
+It is a Normal Stop watch.
+I used only HTML,CSS,jS.
